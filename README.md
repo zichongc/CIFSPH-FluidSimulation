@@ -18,7 +18,7 @@ The algorithm is implemented by C++, and CUDA C++ for the part of GPU parallel a
 * Windows 10 or 11
 
 ## Get Started
-Source codes will be released as soon as possible.
+Source codes will be released soon.
 
 ## Acknowledgements
 This code is partly based on Gfans's [ISPH_NVIDIA_CUDA_CONTEST](https://github.com/Gfans/ISPH_NVIDIA_CUDA_CONTEST).
