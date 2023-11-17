@@ -2,7 +2,7 @@
 
 Coupling Incompressibility Fine Smoothed Particle Hydrodynamics (CIFSPH), a more efficient algorithm for incompressible fluid simulation, which is comparable with the existing methods on the computational accuracy.
 
-The algorithm is implemented by C++, and CUDA C++ for the part of GPU parallel accelerated computing.
+The algorithm is implemented by C++ and CUDA C++ for the part of GPU parallel accelerated computing.
 
 
 ![](./asserts/front2.svg)
