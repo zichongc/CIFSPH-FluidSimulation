@@ -5,13 +5,13 @@ Coupling Incompressibility Fine Smoothed Particle Hydrodynamics (CIFSPH), a more
 The algorithm is implemented by C++ and CUDA C++ for the part of GPU parallel accelerated computing.
 
 
-![](./asserts/front2.svg)
+![](./assets/front2.svg)
 
-![](./asserts/front1.svg)
+![](./assets/front1.svg)
 
-![](./asserts/front3.svg)
+![](./assets/front3.svg)
 
-![](./asserts/table.svg)
+![](./assets/table.svg)
 
 This repo also includes the implementations of IISPH, DFSPH, CISPH.
 
